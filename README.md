@@ -36,8 +36,8 @@ Abre el proyecto en tu navegador:
 cd mi-proyecto
 
 3. **Abre el archivo index.html en tu navegador de preferencia (solo haz doble clic sobre él o usa el comando open en Mac o start en Windows)**:
--`open index.html    # En MacOS`
--`start index.html   # En Windows`
+- `open index.html    # En MacOS`
+- `start index.html   # En Windows`
 
 4. **Ver el resultado**: 
 El CV debería verse de inmediato en tu navegador, con un diseño limpio y organizado. Además, las imágenes y enlaces funcionarán correctamente.
