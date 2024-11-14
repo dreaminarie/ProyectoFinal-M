@@ -33,11 +33,11 @@ Para ver el proyecto en acción, sigue estos pasos:
 Abre el proyecto en tu navegador:
 
 2. **Navega al directorio del proyecto**:
-    cd mi-proyecto
+cd mi-proyecto
 
 3. **Abre el archivo index.html en tu navegador de preferencia (solo haz doble clic sobre él o usa el comando open en Mac o start en Windows)**:
-    open index.html    # En MacOS
-    start index.html   # En Windows
+open index.html    # En MacOS
+start index.html   # En Windows
 
 4. **Ver el resultado**: 
 El CV debería verse de inmediato en tu navegador, con un diseño limpio y organizado. Además, las imágenes y enlaces funcionarán correctamente.
@@ -45,7 +45,7 @@ El CV debería verse de inmediato en tu navegador, con un diseño limpio y organ
 ## Personalización
 Si deseas personalizar este CV para tu propio uso, puedes:
 
-- Cambiar la imagen de perfil en la etiqueta <img src="resources/IMG_20241114_102118.jpg" alt="Foto de Jaz" style="border-radius: 50%; width: 150px;"> por tu propia foto.
+- Cambiar la imagen de perfil en la etiqueta < img src="resources/IMG_20241114_102118.jpg" alt="Foto de Jaz" style="border-radius: 50%; width: 150px;" > por tu propia foto.
 - Editar las secciones de información como Sobre mí, Capacitación, Educación, etc.
 - Modificar los enlaces en la sección de Contacto para tus redes sociales, correo electrónico, etc.
 
