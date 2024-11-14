@@ -27,8 +27,8 @@ section ul ul {list-style-type: circle;margin-left: 30px}
 
 /* Pasatiempos */
 .Cont-Pas {display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between;}
-.L-Pas {padding-left: 0px; margin-left: 50px; margin-bottom: 15px;}
-.Img-Pas {width: 260px; height: 160px; object-fit: cover; border-radius: 8px; margin-right: 100px} 
+.L-Pas {padding-left: 10px; margin-left: 10px; margin-right: 10px;margin-bottom: 15px; text-align: justify}
+.Img-Pas {width: 200px; height: 160px; object-fit: cover; border-radius: 8px; margin-right: 30px; margin-left: 40px} 
 
 /* Contacto */
 #contacto ul {list-style-type: none;padding: 0;}
